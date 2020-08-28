@@ -1,7 +1,8 @@
-# Faulty-Calculator
-its a exercise proj
 # This is a faulty calculator program for a Exercise given by Harry from Code with Harry Youtube Channel
 # Coder - Praveen Singh Chauhan :)
+# 45 * 3 = 555, 56+9=77, 56/6=4
+# print(f'{num2} {num1}')
+
 ope_cal = ""
 num1, num2 = 0, 0
 
@@ -17,11 +18,6 @@ while ope_cal != "exit":
         print("you are doing mistake")
         print("its a '[Calculator]' so type operator i.e. + - * / ")
         print("*" * 50)
-        # break
-
-
-# 45 * 3 = 555, 56+9=77, 56/6=4
-# print(f'{num2} {num1}')
 
     if num1 == 45 and num2 == 3 and ope_cal == "*":
         print("Result is '[555]' ")
