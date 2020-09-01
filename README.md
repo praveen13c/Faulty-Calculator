@@ -1,7 +1,10 @@
 # This is a faulty calculator program for a Exercise given by Harry from Code with Harry Youtube Channel
-# Coder - Praveen Singh Chauhan :)
-# 45 * 3 = 555, 56+9=77, 56/6=4
-# print(f'{num2} {num1}')
+# Problem given by Harry from Code with Harry Youtube Channel (HarisAK) 
+# Coder - Praveen Singh Chauhan (Technology Video Network - Youtube Channel , GAMP Aaryawarti Films - Film Production & Youtube Channel)
+# Link of Youtube - https://www.youtube.com/TechnologyVideoNetwork , https://www.youtube.com/gampaaryawartifilms
+# Facebook - https://www.facebook.com/praveen13c
+# Twitter - https://twitter.com/praveen13c , https://twitter.com/tvnutube 
+# Linkdin -  https://www.linkedin.com/in/impraveenchauhan
 
 ope_cal = ""
 num1, num2 = 0, 0
