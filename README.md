@@ -1,4 +1,5 @@
-Faulty Calculater Exercise 
+# Faulty Calculater Exercise 
+
 Brief = for some fixed input its calculate faulty or fixed calculation rest calculation is accurate like normal calculator .
 
 Exercise given by Harry from Code with Harry Youtube Channel (HarisAK)\n
